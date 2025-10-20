@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "YourFrameworkPackage",
+    name: "Pulse_iOS",
     platforms: [
         .iOS(.v15),
         .macOS(.v12)
