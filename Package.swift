@@ -18,7 +18,7 @@ let package = Package(
         .binaryTarget(
             name: "Pulse_iOS",
             url: "https://github.com/Khyaal-Inc/KhyaalPulseSDK/releases/download/sdks/Pulse_iOS_v1.0.8.xcframework.zip",
-            checksum: "8b7598ee63ac3ed70de4120f226773ab222b4a2d9c8e0a0368edea3550a2bb36"
+            checksum: "4c1169cc3c575653837072acc19162963e2735317618d83b72a437dd8628e7db"
         )
     ]
 )
